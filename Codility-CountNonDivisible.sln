@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-CountNonDivisible", "Codility-CountNonDivisible\Codility-CountNonDivisible.csproj", "{6E032BDC-F37F-4217-BD92-AEE57B6E6D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-CountNonDivisibleTests", "Codility-CountNonDivisibleTests\Codility-CountNonDivisibleTests.csproj", "{DE94E658-9C7C-46A3-99D6-9B8DADE6CB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E032BDC-F37F-4217-BD92-AEE57B6E6D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E032BDC-F37F-4217-BD92-AEE57B6E6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E032BDC-F37F-4217-BD92-AEE57B6E6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E032BDC-F37F-4217-BD92-AEE57B6E6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE94E658-9C7C-46A3-99D6-9B8DADE6CB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE94E658-9C7C-46A3-99D6-9B8DADE6CB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE94E658-9C7C-46A3-99D6-9B8DADE6CB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE94E658-9C7C-46A3-99D6-9B8DADE6CB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48AB09AD-0F33-4C09-B556-BBABDA479FF0}
+	EndGlobalSection
+EndGlobal
